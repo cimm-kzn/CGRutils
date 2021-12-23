@@ -1,0 +1,1 @@
+Rules extractor is the part of CGRutils. It is designed to extract rules from reactions 
